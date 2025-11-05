@@ -1,17 +1,10 @@
-<table>
-  <tr>
-    <td width="150" align="center">
-      <img src="Assets/Personal_logo.png" alt="AM logo" width="200" style="border-radius:20px;"/>
-    </td>
-    <td>
-      <h1>Lamport's logical clock python implementation</h1>
-      <p><strong>André Martins</strong><br/>
-      Bachelor Student – University of Luxembourg<br/>
-      <a href="mailto:0230991223@uni.lu">0230991223@uni.lu</a> <br/>
-      <a href="https://github.com/oliveira-andre-unilu">GitHub</a>
-    </td>
-  </tr>
-</table>
+
+
+# Lamport's logical clock python implementation
+**André Martins**<br/>
+Bachelor Student – University of Luxembourg<br/>
+<a href="mailto:0230991223@uni.lu">0230991223@uni.lu</a> <br/>
+<a href="https://github.com/oliveira-andre-unilu">GitHub</a>
 
 ---
 
