@@ -1,14 +1,19 @@
-# Lamport's logical clock python implementation
+<table>
+  <tr>
+    <td width="150" align="center">
+      <img src="Assets/Personal_logo.png" alt="AM logo" width="200" style="border-radius:20px;"/>
+    </td>
+    <td>
+      <h1>Lamport's logical clock python implementation</h1>
+      <p><strong>André Martins</strong><br/>
+      Bachelor Student – University of Luxembourg<br/>
+      <a href="mailto:0230991223@uni.lu">0230991223@uni.lu</a> <br/>
+      <a href="https://github.com/oliveira-andre-unilu">GitHub</a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="./Assets/Personal_logo.png" alt="Project Header" width="100px"/>
-</p>
-
-<h1 align="center">Personal Academic Projects</h1>
-<p align="center">by <strong>Your Name</strong></p>
-<p align="center"><em>Explorations in data, computation, and research.</em></p>
-
-*Author: André Martins (ID:0230991223)*
+---
 
 ## Main algorithm logic
 
@@ -46,5 +51,5 @@ In order to run the code simply type: `python Lamports_Logical_Clock.py` and the
 
 The chosen example is the following:
 
-![image](./Assets/chosen_example.png){width=500}
+<img src="Assets/chosen_example.png" alt="Example chosen" width="500" style="border-radius:5px;"/>
 
